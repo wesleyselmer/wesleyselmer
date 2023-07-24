@@ -8,8 +8,7 @@
   - <a href="https://github.com/wesleyselmer/escola_javascript" target="_blank"> API em NodeJS e MongoDB
   - <a href="https://github.com/wesleyselmer/api_eventos" target="_blank"> Sistema de eventos em .NET, Angular e MongoDB (🚧)
 
-- Meu currículo:
-  - <a href="https://wesleyselmer.github.io/js-developer-portfolio/" target="_blank"> 
+- 👔 <a href="https://wesleyselmer.github.io/js-developer-portfolio/" target="_blank"> Meu currículo:
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
