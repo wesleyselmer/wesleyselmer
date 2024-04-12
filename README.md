@@ -1,14 +1,10 @@
 ## Oi! Eu me chamo Wesley Selmer e esse é meu GitHub!
 
 - 🔭 Atualmente trabalho com Suporte e manutenção de Informática
-- 🌱 Estou estudando .NET Core, JavaScript e seus afluentes... 😋
+- 🌱 Estou estudando Desenvolvimento WEB e seus afluentes... 😋
 - 👯 Busco por oportunidades para iniciar como DEV JR, principalmente Back-End
 - 👨‍🔬 Veja o que ando fazendo:
-  - <a href="https://pokedex-woad-psi.vercel.app/" target="_blank"> Pokedex com JavaScript e dados da PokeAPI  
-  - <a href="https://front-tour-of-heroes.vercel.app/" target="_blank"> Tour of Heroes (Tutorial Angular)
-  - <a href="https://github.com/wesleyselmer/api_eventos" target="_blank"> Sistema de eventos em .NET, Angular e MongoDB (🚧)
-
-- 👔 <a href="https://wesleyselmer.github.io/js-developer-portfolio/" target="_blank"> Meu currículo:
+  - <a href="https://alura-portfolio-red.vercel.app/" target="_blank"> Meu site de apresentação
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
