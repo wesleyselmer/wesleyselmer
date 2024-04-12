@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Suporte e manutenção de Informática
 - 🌱 Estou estudando Desenvolvimento WEB e seus afluentes... 😋
-- 👯 Busco por oportunidades para iniciar como DEV JR, principalmente Back-End
+- 👯 Busco por oportunidades para iniciar como DEV JR.
 - 👨‍🔬 Veja o que ando fazendo:
   - <a href="https://alura-portfolio-red.vercel.app/" target="_blank"> Meu site de apresentação
     
