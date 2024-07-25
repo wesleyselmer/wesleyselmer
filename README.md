@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Desenvolvimento WEB e seus afluentes... 😋
 - 👯 Busco por oportunidades para iniciar como DEV JR.
 - 👨‍🔬 Veja o que ando fazendo:
-  - <a href="https://portfolio-wesleyselmer.vercel.app/)" target="_blank"> Meu site de apresentação
+  - <a href="https://portfolio-wesleyselmer.vercel.app/" target="_blank"> Meu site de apresentação
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
