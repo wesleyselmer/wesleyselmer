@@ -5,7 +5,7 @@
 - 👯 Busco por oportunidades para iniciar como DEV JR.
 - 👨‍🔬 Veja o que ando fazendo:
   - <a href="https://portfolio-wesleyselmer.vercel.app/" target="_blank"> Meu site de apresentação    
-<div style="display: inline_block">
+<div style="display: inline_block; height: auto;">
   <img align="center" alt="HTML" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
