@@ -2,17 +2,14 @@
 
 - 🔭 Atualmente trabalho com Suporte e manutenção de Informática
 - 🌱 Estou estudando Desenvolvimento WEB e seus afluentes... 😋
-- 👯 Busco por oportunidades para iniciar como DEV JR.
+- 👯 Analista de suporte com experiência em desenvolvimento RPA.
 - 👨‍🔬 Veja o que ando fazendo:
   - <a href="https://portfolio-wesleyselmer.vercel.app/" target="_blank"> Meu site de apresentação    
 <div style="display: inline_block; height: auto;">
   <img align="center" alt="HTML" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="React" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Next" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="NestJS" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="PostGreSQL" height="150" width="57.6"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQLDeveloper" height="150" width="57.6"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/sqldeveloper-original.svg">
   <img align="center" alt="MongoDB" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 <div> 
