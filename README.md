@@ -9,7 +9,7 @@
   <img align="center" alt="HTML" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="SQLDeveloper" height="150" width="57.6"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/sqldeveloper-original.svg">
+  <img align="center" alt="SQLDeveloper" height="150" width="57.6"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="MongoDB" height="150" width="57.6" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 <div> 
